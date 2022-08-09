@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    transition: 0.5s;
+}
+
+#wa{
+    transition: 0.4s;
+    color: white;
+}
+#wa:hover{
+    color: crimson;
+}
+
+#wb{
+    transition: 0.4s;
+    color: white;
+}
+#wb:hover{
+    color: crimson;
+}
+
+#wc{
+    transition: 0.4s;
+    color: white;
+}
+#wc:hover{
+    color: crimson;
+}
+
+body{
+    background-color: dark;
+    
+}
+
+.jumbotron h1{
+    font-size: 5rem;
+}
+
+#Abo{
+    color: white;
+}
+
+#list-home-list{
+    transition: 0.4s;
+}
+
+#list-profile-list{
+    transition: 0.4s;
+}
+
+#list-messages-list{
+    transition: 0.4s;
+}
+
+#list-settings-list{
+    transition: 0.4s;
+}
+
+#bb{
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+#aa{
+    color: white;
+    text-decoration: none;
+    
+}
+
+#cc{
+    color: white;
+    text-decoration: none;
+    
+}
+
